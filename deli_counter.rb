@@ -12,7 +12,5 @@ end
 end
 
 def take_a_number(katz_deli, name)
-  name = []
-  name << katz_deli[0]
-  name
+  name.split(" ")
 end
