@@ -16,3 +16,6 @@ def take_a_number(katz_deli, name)
   y = katz_deli.count
   puts "Welcome, #{katz_deli[-1]}. You are number #{y} in line."
 end
+
+def now_serving
+end
